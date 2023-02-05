@@ -1,6 +1,6 @@
 ![alt text](https://github.com/RarJar/RarJar/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm Rar Zar Min Khant</h1>
-<h3 align="center">A passionate web developer from Myanmar</h3>
+<h3 align="center">I am a Backend Developer focus on PHP/Laravel and JavaScript Vuejs</h3>
 
 - 🌱 I’m currently learning **Dart && Flutter**
 
