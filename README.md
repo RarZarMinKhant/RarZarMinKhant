@@ -1,4 +1,4 @@
-![alt text](https://github.com/RarJar/RarJar/blob/main/cover_photo.jpg)
+![alt text](https://github.com/RarJar/RarJar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rar Zar Min Khant</h1>
 <h3 align="center">I am a Backend Developer focus on PHP/Laravel and JavaScript Vuejs</h3>
 
