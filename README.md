@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rar Zar Min Khant</h1>
 <h3 align="center">I am a Backend Developer focus on PHP/Laravel and JavaScript Vuejs</h3>
 
-- 🌱 I’m currently learning **Dart && Flutter**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://rarjar.github.io/My-Portfolio/](https://rarjar.github.io/My-Portfolio/)
 
