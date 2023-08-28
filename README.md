@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Rar Zar Min Khant</h1>
 <h3 align="center">I am a Backend Developer focus on PHP/Laravel and JavaScript Vuejs</h3>
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Dart, Flutter, Unity**
 
 - 👨‍💻 All of my projects are available at [https://rarjar.github.io/My-Portfolio/](https://rarjar.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Laravel , Vue**
+- 💬 Ask me about **Laravel , Vue ,Nust.js**
 
 - 📫 How to reach me **yarzarminkhant2003@gmail.com**
 
