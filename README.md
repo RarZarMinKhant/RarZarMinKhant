@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rarjar.github.io/My-Portfolio/](https://rarjar.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Laravel , Vue ,Nust.js**
+- 💬 Ask me about **Laravel , Vue , Nuxt.js**
 
 - 📫 How to reach me **yarzarminkhant2003@gmail.com**
 
