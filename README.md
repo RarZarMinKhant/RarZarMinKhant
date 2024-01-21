@@ -1,12 +1,12 @@
 ![alt text](https://github.com/RarJar/RarJar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rar Zar Min Khant</h1>
-<h3 align="center">I am a Backend Developer focus on PHP/Laravel and JavaScript Vuejs</h3>
+<h3 align="center">I am a Backend Developer focus on PHP/Laravel and JavaScript Vuejs, Reactjs</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter, Unity**
 
 - 👨‍💻 All of my projects are available at [https://rarjar.github.io/My-Portfolio/](https://rarjar.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Laravel , Vue , Nuxt.js**
+- 💬 Ask me about **Laravel , Vuejs , Nuxt.js and Reactjs**
 
 - 📫 How to reach me **yarzarminkhant2003@gmail.com**
 
