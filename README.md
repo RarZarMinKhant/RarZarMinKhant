@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, Unity**
 
-- 👨‍💻 All of my projects are available at [https://rarjar.github.io/My-Portfolio/](https://rarjar.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://rarzar.vercel.app](https://rarzar.vercel.app)
 
 - 💬 Ask me about **Laravel , Vuejs , Nuxt.js and Reactjs**
 
