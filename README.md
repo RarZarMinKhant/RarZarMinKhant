@@ -1,12 +1,12 @@
 ![alt text](https://github.com/RarJar/RarJar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rar Zar Min Khant</h1>
-<h3 align="center">I am a Full Stack Developer focus on PHP/Laravel and JavaScript Vuejs, Reactjs</h3>
+<h3 align="center">I am a Full Stack Developer focus on PHP/Laravel, JavaScript and MERN Stack</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter, Unity**
+- 🌱 I’m currently learning **Unity, 3D Game Developement**
 
 - 👨‍💻 All of my projects are available at [https://rarzar.vercel.app](https://rarzar.vercel.app)
 
-- 💬 Ask me about **Laravel , Vuejs , Nuxt.js and Reactjs**
+- 💬 Ask me about **TALL Stack,MERN Stact**
 
 - 📫 How to reach me **yarzarminkhant2003@gmail.com**
 
