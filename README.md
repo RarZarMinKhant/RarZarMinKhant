@@ -14,7 +14,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rarzar2003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rarzarminkhant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rarzarminkhant) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RarZar2003) 
 
 ## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RarJar&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RarZarMinKhant&show_icons=true&theme=dracula)
 
 ## 💻 Tech Stack:
 <h3 align="left">Web Developement:</h3>
