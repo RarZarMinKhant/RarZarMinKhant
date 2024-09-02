@@ -1,6 +1,6 @@
 ![alt text](https://github.com/RarJar/RarJar/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Rar Zar Min Khant</h1>
-<h3 align="center">I am a Full Stack Developer focus on PHP/Laravel, JavaScript and MERN Stack</h3>
+<h1 align="center">Hello 👋, I'm Rar Zar Min Khant</h1>
+<h3 align="center">I am a Full Stack Developer focus on PHP/Laravel, JavaScript TALL Stack and MERN Stack</h3>
 
 - 🌱 I’m currently learning **Unity, 3D Game Developement**
 
